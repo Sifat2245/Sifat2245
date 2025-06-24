@@ -1,64 +1,69 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/6m0z1aB.png" alt="Banner" width="100%" />
+<!-- First, add a banner image. You can create one on Canva or use a generic one. -->
 
-<h1 align="center">Hi, I'm Saifuddin Ahmed 👋</h1>
-<h3 align="center">MERN Stack Developer | Passionate about building web apps</h3>
-
----
-
-### 👨‍💻 About Me
-
-I'm a MERN Stack developer focused on building modern, scalable, and user-friendly web applications. I enjoy writing clean code, exploring new technologies, and solving real-world problems through development.
-
----
-
-### 🚀 Currently
-
-- 🔍 Open to internship or junior developer opportunities  
-- ⚙️ Working on a **Restaurant Management System**  
-- 🌱 Exploring **Next.js** and **JWT Authentication**  
-- 💡 Improving my **Data Structure & Algorithms** skills  
-
----
-
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,firebase,vscode" />
+<p align="center">
+<img src="https://www.google.com/search?q=https://placehold.co/1200x300/0D1117/FFFFFF%3Ftext%3DYour%2BBanner%2BHere" alt="Banner Image"/>
 </p>
 
----
+<!-- Name and Designation -->
 
-### 📫 Connect With Me
+<div id="header" align="center">
+<h1>👋 Hi, I'm [Your Name]</h1>
+<h3>A [Your Designation], e.g., Full-Stack Developer, AI Enthusiast, etc.</h3>
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+👨‍💻 About Me
+I am a passionate and dedicated developer with a deep interest in technology and learning new things. I am currently focused on solving problems and creating beautiful and functional digital experiences.
+
+<!-- You can write more about yourself here. -->
+
+🔭 I’m currently working on [Your Current Project or Technology] (e.g., a tourism website).
+
+🌱 I’m currently learning [What you are learning] (e.g., Next.js and TypeScript).
+
+👯‍♀️ I’m looking to collaborate on [The kind of project you want to join].
+
+📫 How to reach me: [Your Email Address]
+
+<br/>
+
+🛠️ Skills & Tools
+<!-- Use icons from sources like https://skillicons.dev/ or https://img.shields.io/ -->
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,vscode,figma,postman%26perline%3D7" />
+</a>
 </p>
 
----
+<br/>
 
-### 📊 GitHub Stats
+🤝 Connect with me
+<!-- Add your social media links here. -->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
+<p align="center">
+<a href="https://github.com/[your-username]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%252324292e.svg%3F%26style%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/[your-username]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25231E77B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/[your-username]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/twitter-%2523000000.svg%3F%26style%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:[your-email]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/gmail-EA4335.svg%3F%26style%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="gmail" style="margin-bottom: 5px;" />
+</a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="48%" />
+<br/>
+
+📊 My GitHub Stats
+<!-- Replace '[your-username]' with your actual GitHub username -->
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Github Stats" />
+<br/><br/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D[your-username]&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/><br/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[your-username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### ⚡ Fun Fact
-
-I love debugging more than writing new code — it's like solving a puzzle with a reward!
-
