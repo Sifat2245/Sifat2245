@@ -4,8 +4,8 @@
 </p>
 
 <div align="center">
-  <h1>Hello, nice to see you here! 👋</h1>
-  <h3>I'm Saifuddin Ahmed Sifat — MERN Stack Developer from Bangladesh 🇧🇩</h3>
+  <h1>Hey! Nice to have you here! 👋</h1>
+  <h4>I'm Saifuddin Ahmed Sifat, a Frontend Developer 👨‍💻 based in Bangladesh. I build full-stack web applications using React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, JWT, and Vercel, focusing on clean, efficient code and seamless user experiences. Always eager to learn and grow — let’s connect!</h4>
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 - 🔭 Building my personal portfolio using **Next.js**
 - 🎯 Exploring **Framer Motion** for animations
-- 💬 Ask me about **React, Tailwind CSS, and JavaScript**
+
 
 📫 **Email:** mdsaifuddinahmed360@gmail.com
 
