@@ -1,69 +1,72 @@
-<!-- First, add a banner image. You can create one on Canva or use a generic one. -->
+<!--
+Thanks for using my template!
+You can customize this further by changing themes, adding more skills,
+or including sections like "My Projects" or "Blog Posts".
+-->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1200x300/0D1117/FFFFFF%3Ftext%3DYour%2BBanner%2BHere" alt="Banner Image"/>
+<img src="https://www.google.com/search?q=https://placehold.co/1200x300/0D1117/FFFFFF%3Ftext%3DSaifuddin%2BAhmed%2BSifat" alt="Banner Image"/>
 </p>
 
-<!-- Name and Designation -->
-
 <div id="header" align="center">
-<h1>👋 Hi, I'm [Your Name]</h1>
-<h3>A [Your Designation], e.g., Full-Stack Developer, AI Enthusiast, etc.</h3>
+<h1>👋 Hi, I'm Saifuddin Ahmed Sifat</h1>
+<h3>A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 </div>
 
 👨‍💻 About Me
-I am a passionate and dedicated developer with a deep interest in technology and learning new things. I am currently focused on solving problems and creating beautiful and functional digital experiences.
+I'm a Frontend Developer focused on building dynamic and responsive web applications. I enjoy bringing ideas to life in the browser and am always eager to learn new technologies to improve my craft.
 
-<!-- You can write more about yourself here. -->
+🔭 I’m currently working on building my portfolio with Next.js.
 
-🔭 I’m currently working on [Your Current Project or Technology] (e.g., a tourism website).
+🌱 I’m currently exploring Framer Motion for animations.
 
-🌱 I’m currently learning [What you are learning] (e.g., Next.js and TypeScript).
+💬 Ask me about React, Tailwind CSS, and JavaScript.
 
-👯‍♀️ I’m looking to collaborate on [The kind of project you want to join].
-
-📫 How to reach me: [Your Email Address]
+📫 How to reach me: mdsaifuddinahmed360@gmail.com
 
 <br/>
 
-🛠️ Skills & Tools
-<!-- Use icons from sources like https://skillicons.dev/ or https://img.shields.io/ -->
-
+💻 Tech Stack & Tools
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,vscode,figma,postman%26perline%3D7" />
-</a>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
 <br/>
 
-🤝 Connect with me
-<!-- Add your social media links here. -->
-
+🌐 Connect with Me
 <p align="center">
-<a href="https://github.com/[your-username]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%252324292e.svg%3F%26style%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[your-username]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25231E77B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/[your-username]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/twitter-%2523000000.svg%3F%26style%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:[your-email]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/gmail-EA4335.svg%3F%26style%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="gmail" style="margin-bottom: 5px;" />
-</a>
+<a href="https://linkedin.com/in/saifuddin-ahmed-sifat" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Flogo%3Dlinkedin%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="LinkedIn"/></a>
+<a href="https://facebook.com/mdsifat3605" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-%25231877F2.svg%3Flogo%3DFacebook%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="Facebook"/></a>
+<a href="https://instagram.com/sifat_224" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Flogo%3DInstagram%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="Instagram"/></a>
+<a href="mailto:mdsaifuddinahmed360@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836.svg%3Flogo%3Dgmail%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="Email"/></a>
 </p>
 
 <br/>
 
 📊 My GitHub Stats
-<!-- Replace '[your-username]' with your actual GitHub username -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sifat2245&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifat2245&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sifat2245&theme=aura&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Github Stats" />
-<br/><br/>
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D[your-username]&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<br/><br/>
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[your-username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=Sifat2245&icon=0&color=0" alt="Visitor Count"/>
+</a>
 </p>
