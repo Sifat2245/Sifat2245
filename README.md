@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./github-header-image.png" alt="Banner Image" />
+  <img src="./banner-img.png" alt="Banner Image" />
 </p>
 
 <div align="center">
