@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://placehold.co/1200x300/0D1117/FFFFFF?text=Saifuddin+Ahmed+Sifat" alt="Banner Image" />
+  <img src="./github-header-image.png" alt="Banner Image" />
 </p>
 
 <div align="center">
