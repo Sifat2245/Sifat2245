@@ -12,7 +12,7 @@
 
 ## 🚀 Currently Working On
 
-- 🎯 Exploring **Next JS** for animations
+- 🎯 Exploring **Next JS**
 
 
 📫 **Email:** mdsaifuddinahmed360@gmail.com
