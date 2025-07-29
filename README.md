@@ -12,8 +12,7 @@
 
 ## 🚀 Currently Working On
 
-- 🔭 Building my personal portfolio using **Next.js**
-- 🎯 Exploring **Framer Motion** for animations
+- 🎯 Exploring **Next JS** for animations
 
 
 📫 **Email:** mdsaifuddinahmed360@gmail.com
