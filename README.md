@@ -8,12 +8,16 @@
   <h4>I'm Saifuddin Ahmed Sifat, a Frontend Developer 👨‍💻 based in Bangladesh. I build full-stack web applications using React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, JWT, and Vercel, focusing on clean, efficient code and seamless user experiences. Always eager to learn and grow — let’s connect!</h4>
 </div>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sifat2245&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 Currently Working On
 
 - 🎯 Exploring **Next JS**
-
 
 📫 **Email:** mdsaifuddinahmed360@gmail.com
 
@@ -54,8 +58,8 @@
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X"/>
   </a>
   <a href="https://www.instagram.com/sifat_224" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
