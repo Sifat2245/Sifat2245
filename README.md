@@ -17,7 +17,7 @@
 
 ## 🚀 Currently Working On
 
-- 🎯 Exploring **Next JS**
+- 🎯 Exploring **TypeScript**
 
 📫 **Email:** mdsaifuddinahmed360@gmail.com
 
