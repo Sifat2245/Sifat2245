@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2>Hey! Nice to have you here! <img src="./waving.gif" width="50px" align="center"/></h2>
-  <h4>I'm Saifuddin Ahmed Sifat, a Frontend Developer 👨‍💻 based in Bangladesh. I build full-stack web applications using React, Next JS, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Firebase, JWT, and Vercel, with a focus on clean, efficient code and seamless user experiences. Always eager to learn and grow — let’s connect!</h4>
+  <h4>I'm Saifuddin Ahmed Sifat, a full stack Developer 👨‍💻 based in Bangladesh. I build full-stack web applications using React, Next JS, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Firebase, JWT, and Vercel, with a focus on clean, efficient code and seamless user experiences. Always eager to learn and grow — let’s connect!</h4>
 </div>
 
 <!-- Profile Views -->
@@ -18,7 +18,7 @@
 
 ## 🚀 Currently Working On
 
-- 🎯 Exploring **Golang**
+- 🎯 Exploring **Golang**, **Backend with Postgres**
 
 📫 **Email:** mdsaifuddinahmed360@gmail.com
 
