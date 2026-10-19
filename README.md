@@ -1,106 +1,89 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./banner-img.png" alt="Banner Image" />
-</p>
-
 <div align="center">
-  <h2>
-    Hey! Nice to have you here!
-    <img src="./waving.gif" width="50px" align="center"/>
-  </h2>
 
-  <h4>
-    I'm Saifuddin Ahmed Sifat, a passionate Full-Stack Developer
-    based in Bangladesh. I specialize in building modern, scalable,
-    and user-friendly web applications using React, Next.js, TypeScript,
-    Node.js, Express.js, MongoDB, and PostgreSQL.
-    <br/><br/>
-    I enjoy turning ideas into real-world solutions, from crafting
-    intuitive interfaces to developing reliable backend systems.
-    I'm passionate about clean, maintainable code, solving complex
-    problems, and continuously exploring new technologies.
-    <br/><br/>
-    Always learning, always building. Let's connect, collaborate,
-    and create something meaningful! 
-  </h4>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=living-identity&label=Saifuddin%20Ahmed%20Sifat&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=living-identity&label=Saifuddin%20Ahmed%20Sifat&v=wow-living-identity-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>full-stack engineer</strong> · Narrayanganj, Bangladesh</p>
+<p>Check out my projects below to see my work in action.</p>
+<p><a href="https://github.com/sifat2245">GitHub</a> &nbsp;·&nbsp; <a href="https://www.sifatbuilds.dev/">Website</a> &nbsp;·&nbsp; <a href="https://x.com/mdsifat1644976">X</a></p>
 </div>
 
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sifat2245&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<h2>What moves the work</h2>
 
----    
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated profile highlights" />
+</picture>
 
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
 
-## 🚀 Currently Working On
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-- 🎯 Exploring **Golang**, **Backend with Postgres**
+<h2>The tools behind the signal</h2>
 
-📫 **Email:** mdsaifuddinahmed360@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated technology stack" />
+</picture>
 
----
+<p align="center"><sub>JavaScript · HTML · TypeScript · CSS · Shell · Python · chosen for the work, not the trend</sub></p>
 
-## 💻 Tech Stack & Tools
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+<h2>Built, shipped, shared</h2>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated project constellation" />
+</picture>
 
-## 🌐 Connect With Me
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated project launch timeline" />
+</picture>
 
-<p align="center">
-  <a href="https://linkedin.com/in/saifuddin-ahmed-sifat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://facebook.com/mdsifat3605" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:mdsaifuddinahmed360@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/mdsifat1644976" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X"/>
-  </a>
-  <a href="https://www.instagram.com/sifat_224" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Sifat2245/whistleworks">whistleworks</a></strong></p><p>A live sports referee camp management platform serving 2,000+ active users, designed to manage the complete camp lifecycle, including registration, sc</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Sifat2245/genclex">genclex</a></strong></p><p>STEMRN is an all-in-one, AI-powered NCLEX-RN preparation platform built by a nurse, for nursing students. It combines a massive question bank,</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Sifat2245/autotype-extension">autotype-extension</a></strong></p><p>Generate TypeScript types and interfaces from JSON, JavaScript objects, initial state, and dummy data inside VS Code.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Sifat2245/Asian-client">Asian-client</a></strong></p><p>A full-stack app to efficiently manage restaurant orders, menus, and users with role-based access and real-time updates.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 📊 GitHub Stats
+<h2>Momentum, made visible</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sifat2245&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sifat2245&theme=aura&hide_border=false" width="48%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated GitHub signal" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sifat2245&theme=aura&layout=compact&hide_border=false" width="48%" />
-</p>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
----
+<h2>The trail behind the work</h2>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Sifat2245&label=Profile%20Views&color=0&icon=0" alt="Visitor Count"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat contribution energy field" />
+</picture>
 
+<p align="center"><sub>8 day current streak · 254 active days</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<div align="center">
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&website=https%3A%2F%2Fwww.sifatbuilds.dev%2F&x=mdsifat1644976&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&website=https%3A%2F%2Fwww.sifatbuilds.dev%2F&x=mdsifat1644976&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat contact links" />
+</picture>
+<p><a href="https://github.com/sifat2245">GitHub</a> &nbsp;·&nbsp; <a href="https://www.sifatbuilds.dev/">Website</a> &nbsp;·&nbsp; <a href="https://x.com/mdsifat1644976">X</a></p>
+<p><sub>Saifuddin Ahmed Sifat · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
