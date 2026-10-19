@@ -85,5 +85,4 @@
   <img src="https://www.gitskins.com/api/section/social?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&website=https%3A%2F%2Fwww.sifatbuilds.dev%2F&x=mdsifat1644976&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat contact links" />
 </picture>
 <p><a href="https://github.com/sifat2245">GitHub</a> &nbsp;·&nbsp; <a href="https://www.sifatbuilds.dev/">Website</a> &nbsp;·&nbsp; <a href="https://x.com/mdsifat1644976">X</a></p>
-<p><sub>Saifuddin Ahmed Sifat · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
