@@ -6,7 +6,7 @@
 </picture>
 <p><strong>full-stack engineer</strong> · Narrayanganj, Bangladesh</p>
  <h4 align="center">
-    I'm Saifuddin Ahmed Sifat, a passionate Full-Stack Developer 
+    A passionate Full-Stack Developer 
     based in Bangladesh. I specialize in building modern, scalable,
     and user-friendly web applications using React, Next.js, TypeScript,
     Node.js, Express.js, MongoDB, and PostgreSQL.
