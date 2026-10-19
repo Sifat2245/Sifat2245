@@ -4,7 +4,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=living-identity&label=Saifuddin%20Ahmed%20Sifat&v=wow-living-identity-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/hero?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=living-identity&label=Saifuddin%20Ahmed%20Sifat&v=wow-living-identity-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated Living Identity portrait and ASCII name" />
 </picture>
-<p><strong>full-stack engineer</strong> · Narrayanganj, Bangladesh</p>
  <h4 align="center">
     A passionate Full-Stack Developer 
     based in Bangladesh. I specialize in building modern, scalable,
