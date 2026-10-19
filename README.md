@@ -24,17 +24,6 @@
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>What moves the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/highdarks?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highdarks-1&mode=dark" />
-  <img src="https://www.gitskins.com/api/section/highdarks?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highdarks-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated profile highdarks" />
-</picture>
-
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
 <h2>The tools behind the signal</h2>
 
 <picture>
