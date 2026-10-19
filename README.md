@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=living-identity&label=Saifuddin%20Ahmed%20Sifat&v=wow-living-identity-1&mode=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=living-identity&label=Saifuddin%20Ahmed%20Sifat&v=wow-living-identity-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/hero?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=living-identity&label=Saifuddin%20Ahmed%20Sifat&v=wow-living-identity-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated Living Identity portrait and ASCII name" />
 </picture>
 <p><strong>full-stack engineer</strong> · Narrayanganj, Bangladesh</p>
@@ -27,8 +27,8 @@
 <h2>What moves the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated profile highlights" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/highdarks?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highdarks-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/highdarks?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CTypeScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highdarks-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated profile highdarks" />
 </picture>
 
 <p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
@@ -38,7 +38,7 @@
 <h2>The tools behind the signal</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/stack?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated technology stack" />
 </picture>
 
@@ -49,12 +49,12 @@
 <h2>Built, shipped, shared</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow&v=wow-projects-1&mode=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow&v=wow-projects-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated project constellation" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow-timeline&v=wow-timeline-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/projects?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&repos=sifat2245%2Fwhistleworks%2Csifat2245%2Fgenclex%2Csifat2245%2Fautotype-extension%2Csifat2245%2FAsian-client&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated project launch timeline" />
 </picture>
 
@@ -72,7 +72,7 @@
 <h2>Momentum, made visible</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stats?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/stats?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat animated GitHub signal" />
 </picture>
 
@@ -81,7 +81,7 @@
 <h2>The trail behind the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/heatmap?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat contribution energy field" />
 </picture>
 
@@ -94,7 +94,7 @@
 <h2>Make something worth noticing</h2>
 <p>I like working with people who care about craft, context, and shipping the useful version.</p>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&website=https%3A%2F%2Fwww.sifatbuilds.dev%2F&x=mdsifat1644976&variant=wow&v=wow-social-1&mode=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/social?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&website=https%3A%2F%2Fwww.sifatbuilds.dev%2F&x=mdsifat1644976&variant=wow&v=wow-social-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/social?username=sifat2245&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158040742%3Fu%3D6537a8c866b4136964641447d0a9d855fdba20fc%26v%3D4&website=https%3A%2F%2Fwww.sifatbuilds.dev%2F&x=mdsifat1644976&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Saifuddin Ahmed Sifat contact links" />
 </picture>
 <p><a href="https://github.com/sifat2245">GitHub</a> &nbsp;·&nbsp; <a href="https://www.sifatbuilds.dev/">Website</a> &nbsp;·&nbsp; <a href="https://x.com/mdsifat1644976">X</a></p>
