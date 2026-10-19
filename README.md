@@ -4,9 +4,27 @@
 </p>
 
 <div align="center">
-  <h2>Hey! Nice to have you here! <img src="./waving.gif" width="50px" align="center"/></h2>
-  <h4>I'm Saifuddin Ahmed Sifat, a full stack Developer 👨‍💻 based in Bangladesh. I build full-stack web applications using React, Next JS, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, Firebase, JWT, and Vercel, with a focus on clean, efficient code and seamless user experiences. Always eager to learn and grow — let’s connect!</h4>
+  <h2>
+    Hey! Nice to have you here!
+    <img src="./waving.gif" width="50px" align="center"/>
+  </h2>
+
+  <h4>
+    I'm Saifuddin Ahmed Sifat, a passionate Full-Stack Developer
+    based in Bangladesh. I specialize in building modern, scalable,
+    and user-friendly web applications using React, Next.js, TypeScript,
+    Node.js, Express.js, MongoDB, and PostgreSQL.
+    <br/><br/>
+    I enjoy turning ideas into real-world solutions, from crafting
+    intuitive interfaces to developing reliable backend systems.
+    I'm passionate about clean, maintainable code, solving complex
+    problems, and continuously exploring new technologies.
+    <br/><br/>
+    Always learning, always building. Let's connect, collaborate,
+    and create something meaningful! 
+  </h4>
 </div>
+
 
 <!-- Profile Views -->
 <p align="center">
